@@ -1,6 +1,16 @@
-This apk is a pre-release version of a simple calculator which have all the simple features of a calculator. It is similar to the google calculator app found on Google Pixel devices with Material 3 Expressive redesign. Features contain:
+# calculator
 
-Multiple theme charging options.
-Voice typing
-Calculation history
-Unit conversions
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
